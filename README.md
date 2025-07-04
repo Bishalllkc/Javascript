@@ -1,4 +1,3 @@
 # Javascript
 code repo for javascript series
-make sure u learn
-hello there
+just basic learning
